@@ -32,13 +32,13 @@ FRONTEND_URL=http://localhost:3000
 
 ## Security Features
 
-✅ Password hashing (bcrypt, 10 rounds)  
-✅ JWT in HTTP-only cookies  
-✅ Input validation (Joi)  
-✅ Rate limiting (100 req/15min)  
-✅ NoSQL injection prevention  
-✅ CORS configuration  
-✅ Helmet security headers
+ Password hashing (bcrypt, 10 rounds)  
+ JWT in HTTP-only cookies  
+ Input validation (Joi)  
+ Rate limiting (100 req/15min)  
+ NoSQL injection prevention  
+ CORS configuration  
+ Helmet security headers
 
 ## API Endpoints
 
